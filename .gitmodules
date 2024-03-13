@@ -1,0 +1,6 @@
+[submodule "renec-fe"]
+	path = renec-fe
+	url = https://github.com/phaobinh868/renec-fe.git
+[submodule "renec-be"]
+	path = renec-be
+	url = https://github.com/phaobinh868/renec-be.git
