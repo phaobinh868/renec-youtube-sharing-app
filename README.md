@@ -14,7 +14,7 @@
 - Nextjs, bootstrap, Apollo client, socketIO.
 # Run
 1. Clone project: https://github.com/phaobinh868/renec-youtube-sharing-app.git
-2. Create .env file: using .env.example ffor docker.
+2. Create .env file: using .env.example for docker.
 - renec-fe/.env
 - renec-be/apps/app/.env
 - renec-be/apps/auth/.env
@@ -22,7 +22,10 @@
 3. install dependencies
 - cd renec-be & yarn install
 - cd renec-fe & yarn install
-4. test
+4. Test
 - cd renec-be & yarn test
 5. Start docker
 - docker compose up
+6. Address
+- FE: localhost:3000
+- BE: localhost:3001
